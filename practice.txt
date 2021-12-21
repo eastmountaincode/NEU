@@ -1,4 +1,0 @@
-here is some text
-so that
-the file is not blank 
-:S
